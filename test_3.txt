@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello mc
+=======
+hii buddy!!
+>>>>>>> e8426e03696e555a53f70647f2acc6c4da9ed8b6
